@@ -47,3 +47,4 @@
 	</header><!-- #masthead -->
 
 	<div id="content" class="site-content">
+		<?php _s_site_breadcrumbs(); ?>

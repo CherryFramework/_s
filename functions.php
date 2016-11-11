@@ -138,3 +138,8 @@ require get_template_directory() . '/inc/customizer.php';
  * Load Jetpack compatibility file.
  */
 require get_template_directory() . '/inc/jetpack.php';
+
+/**
+ * Cherry Framework core.
+ */
+require get_template_directory() . '/cherry-framework-example/cherry-framework-example.php';
