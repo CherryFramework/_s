@@ -10,6 +10,8 @@ if ( ! class_exists( '_s_simple_widget' ) ) {
 
 		/**
 		 * Constructor.
+		 *
+		 * @since 1.0.0
 		 */
 		public function __construct() {
 			$this->widget_cssclass    = 'widget-simple';

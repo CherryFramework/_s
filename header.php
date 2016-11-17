@@ -47,4 +47,4 @@
 	</header><!-- #masthead -->
 
 	<div id="content" class="site-content">
-		<?php _s_site_breadcrumbs(); ?>
+		<?php your_prefix_site_breadcrumbs(); ?>
